@@ -31,7 +31,8 @@ navbar-links:
     - Toolpar Presentation: "/toolpar/presentation/show/"
     - Toolpar.com Monitor: "/toolpar/monitor.parcels/index_local.xhtml"
     - Toolpar.com Monitor KP: "/toolpar/monitor.parcels/"
-    - Presentation mode, Monitor: "/monitor.presentation"      
+    - Presentation mode, Monitor: "/monitor.presentation"
+  CV: "aboutme"
   My GitHub Profile: "https://github.com/tjunussov"
 
 # Image to show in the navigation bar - image must be a square (width = height)
