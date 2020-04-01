@@ -62,10 +62,10 @@ youtube:
   urlTemplate: "https://www.youtube.com/{value}"
   icon: "fab fa-youtube"
 
-spotify:
-  name: "Spotify"
-  urlTemplate: "https://open.spotify.com/user/{value}"
-  icon: "fab fa-spotify"
+telegram:
+  name: "Telegram"
+  urlTemplate: "https://t.me/{value}"
+  icon: "fab fa-telegram"
 
 telephone:
   name: "Phone"
