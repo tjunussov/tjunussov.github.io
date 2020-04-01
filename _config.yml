@@ -22,9 +22,17 @@ description: Tim TJey Jun father of two daughters
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Aspan.io Monitor Queue: "/aspan.monitor/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  GitHub: "https://github.com/tjunussov"
+    - Aspan.io Monitor Blue Queue: "/aspan.monitor.blue/"
+    - Aspan.io Monitor Blue KP: "/aspan.monitor.blue/index_kazpost.xhtml"
+    - Aspan.io Monitor Track: "/aspan.monitor/track.xhtml"
+    - Toolpar: "/toolpar/metronic/"
+    - Toolpar Presentation: "/toolpar/presentation/show/"
+    - Toolpar.com Monitor: "/toolpar/monitor.parcels/index_local.xhtml"
+    - Toolpar.com Monitor KP: "/toolpar/monitor.parcels/"
+    - Presentation mode, Monitor: "/monitor.presentation"      
+  My GitHub Profile: "https://github.com/tjunussov"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
