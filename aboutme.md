@@ -4,8 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Tim. I have the following qualities:
-Home Assistant enthusiast, IoT explorer, obsessed on UX/UI, slightly assholic at first sight but actually a nice guy.
+My name is Tim. 
+
+Currenlty I'am addicted Home Assistant enthusiast, IoT explorer, obsessed on UX/UI, slightly assholic at first sight but actually a nice guy.
 
 I have 15 years of programming experience, in many languages, and working as software & UX/UI design in my day to day job. 
 
