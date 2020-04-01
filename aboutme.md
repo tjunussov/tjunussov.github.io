@@ -4,13 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tim. I have the following qualities:
+Home Assistant enthusiast, IoT explorer, obsessed on UX/UI, slightly assholic at first sight but actually a nice guy.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have 15 years of programming experience, in many languages, and working as software & UX/UI design in my day to day job. 
+
+I’m a father of a 4-year-old and 2-years-old baby girls 👧, and engaged to the love of my life 💑.
+
+I am also working in a new project to take home assistant to every home in Astana ( Kazakhstan ). We believe there is technology for everyone and everyone should have access to it.
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+todo..
